@@ -67,7 +67,7 @@ let patch v =
       | _ -> invalid_arg (v ^ ": invalid version"))
     | ["master"] -> true, v
     | _ -> invalid_arg (v ^ ": invalid  version")
-  in if branch then version else "V" ^ version
+  in if branch then version else "v" ^ version
 
 let v2 = "https://v2.ocaml.org"
 let manual_with_version v = "/doc/" ^ patch v ^ "/refman/index.html"

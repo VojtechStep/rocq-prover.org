@@ -100,7 +100,7 @@ explicitly to
 opam pin add rocq-prover $NEW_VERSION
 ```
 
-To ensure that installation was successful, check that `rocqc -v` prints the expected version of Rocq.
+To ensure that installation was successful, check that `rocq -v` prints the expected version of Rocq.
 
 ### Installing RocqIDE
 

@@ -12,5 +12,5 @@ category: "Rocq Prover"
   version](https://rocq-prover.org/platform-docs/features/tutorial_search_for_lemma.html) and
   [source code](https://rocq-prover.org/platform-docs/features/tutorial_search_for_lemma.v)
 - Basic Library Files and Module Management [interactive
-  version](https://rocq-prover.org/platform-docs/features/tutorial_requiere_import.html)
-  and [source code](https://rocq-prover.org/platform-docs/features/tutorial_requiere_import.v)
+  version](https://rocq-prover.org/platform-docs/features/tutorial_require_import.html)
+  and [source code](https://rocq-prover.org/platform-docs/features/tutorial_require_import.v)

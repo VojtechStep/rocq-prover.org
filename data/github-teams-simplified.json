@@ -1,6 +1,13 @@
 {
   "teams": [
     {
+      "id": "archlinux-packaging",
+      "name": "archlinux-packaging",
+      "description": "ArchLinux packaging of Rocq",
+      "contacts": [],
+      "members": []
+    },
+    {
       "id": "bench-maintainers",
       "name": "bench-maintainers",
       "description": "The code owners for the benchmark infrastructure.",
@@ -109,6 +116,10 @@
         {
           "github": "mattam82",
           "name": "Matthieu Sozeau"
+        },
+        {
+          "github": "CohenCyril",
+          "name": "Cyril Cohen"
         },
         {
           "github": "Zimmi48",
@@ -395,10 +406,6 @@
           "name": ""
         },
         {
-          "github": "VincentSe",
-          "name": "Vincent Semeria"
-        },
-        {
           "github": "ana-borges",
           "name": "Ana de Almeida Borges"
         },
@@ -423,12 +430,24 @@
           "name": "Pierre Corbineau"
         },
         {
+          "github": "jrosain",
+          "name": "Johann Rosain"
+        },
+        {
           "github": "yannl35133",
           "name": ""
         },
         {
           "github": "rnollet",
           "name": "Rémi Nollet"
+        },
+        {
+          "github": "MathisBD",
+          "name": ""
+        },
+        {
+          "github": "thomas-lamiaux",
+          "name": "Thomas Lamiaux"
         },
         {
           "github": "Villetaneuse",
@@ -589,6 +608,13 @@
       ]
     },
     {
+      "id": "debian-packaging",
+      "name": "debian-packaging",
+      "description": "",
+      "contacts": [],
+      "members": []
+    },
+    {
       "id": "derive-maintainers",
       "name": "derive-maintainers",
       "description": "The code owners for the derive plugin.",
@@ -661,6 +687,10 @@
         {
           "github": "proux01",
           "name": "Pierre Roux"
+        },
+        {
+          "github": "Villetaneuse",
+          "name": "Pierre Rousselin"
         }
       ]
     },
@@ -897,6 +927,22 @@
       ]
     },
     {
+      "id": "nix-packaging",
+      "name": "nix-packaging",
+      "description": "Rocq packaging in nixpkgs",
+      "contacts": [],
+      "members": [
+        {
+          "github": "Zimmi48",
+          "name": "Théo Zimmermann"
+        },
+        {
+          "github": "proux01",
+          "name": "Pierre Roux"
+        }
+      ]
+    },
+    {
       "id": "nsatz-maintainers",
       "name": "nsatz-maintainers",
       "description": "The code owners for the nsatz plugin.",
@@ -927,16 +973,12 @@
           "name": "Jason Gross"
         },
         {
-          "github": "Alizter",
-          "name": "Ali Caglayan"
+          "github": "silene",
+          "name": "Guillaume Melquiond"
         },
         {
           "github": "proux01",
           "name": "Pierre Roux"
-        },
-        {
-          "github": "ana-borges",
-          "name": "Ana de Almeida Borges"
         }
       ]
     },
@@ -981,6 +1023,46 @@
         {
           "github": "fblanqui",
           "name": "Frédéric Blanqui"
+        },
+        {
+          "github": "proux01",
+          "name": "Pierre Roux"
+        }
+      ]
+    },
+    {
+      "id": "opam-packaging",
+      "name": "opam-packaging",
+      "description": "opam packaging of Rocq",
+      "contacts": [],
+      "members": [
+        {
+          "github": "mattam82",
+          "name": "Matthieu Sozeau"
+        },
+        {
+          "github": "silene",
+          "name": "Guillaume Melquiond"
+        }
+      ]
+    },
+    {
+      "id": "packaging",
+      "name": "packaging",
+      "description": "A team to gather all people involved in packaging Rocq.",
+      "contacts": [],
+      "members": [
+        {
+          "github": "mattam82",
+          "name": "Matthieu Sozeau"
+        },
+        {
+          "github": "Zimmi48",
+          "name": "Théo Zimmermann"
+        },
+        {
+          "github": "silene",
+          "name": "Guillaume Melquiond"
         },
         {
           "github": "proux01",
@@ -1143,7 +1225,7 @@
     {
       "id": "platform-maintainers",
       "name": "platform-maintainers",
-      "description": "Maintainers of the rocq-prover/platform project",
+      "description": "Maintainers of the Rocq Platform",
       "contacts": [],
       "members": [
         {
@@ -1339,14 +1421,6 @@
           "name": "Pierre Roux"
         },
         {
-          "github": "VincentSe",
-          "name": "Vincent Semeria"
-        },
-        {
-          "github": "ana-borges",
-          "name": "Ana de Almeida Borges"
-        },
-        {
           "github": "forestjulien",
           "name": ""
         },
@@ -1381,10 +1455,6 @@
         {
           "github": "thery",
           "name": "Laurent Théry"
-        },
-        {
-          "github": "MSoegtropIMC",
-          "name": ""
         },
         {
           "github": "VincentSe",
@@ -1685,6 +1755,10 @@
         {
           "github": "Alizter",
           "name": "Ali Caglayan"
+        },
+        {
+          "github": "thomas-lamiaux",
+          "name": "Thomas Lamiaux"
         }
       ]
     },

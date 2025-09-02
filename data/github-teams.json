@@ -2,8 +2,16 @@
   "data": {
     "organization": {
       "teams": {
-        "totalCount": 59,
+        "totalCount": 64,
         "nodes": [
+          {
+            "slug": "archlinux-packaging",
+            "name": "archlinux-packaging",
+            "description": "ArchLinux packaging of Rocq",
+            "members": {
+              "nodes": []
+            }
+          },
           {
             "slug": "bench-maintainers",
             "name": "bench-maintainers",
@@ -118,6 +126,10 @@
                 {
                   "login": "mattam82",
                   "name": "Matthieu Sozeau"
+                },
+                {
+                  "login": "CohenCyril",
+                  "name": "Cyril Cohen"
                 },
                 {
                   "login": "Zimmi48",
@@ -407,10 +419,6 @@
                   "name": null
                 },
                 {
-                  "login": "VincentSe",
-                  "name": "Vincent Semeria"
-                },
-                {
                   "login": "ana-borges",
                   "name": "Ana de Almeida Borges"
                 },
@@ -435,12 +443,24 @@
                   "name": "Pierre Corbineau"
                 },
                 {
+                  "login": "jrosain",
+                  "name": "Johann Rosain"
+                },
+                {
                   "login": "yannl35133",
                   "name": null
                 },
                 {
                   "login": "rnollet",
                   "name": "Rémi Nollet"
+                },
+                {
+                  "login": "MathisBD",
+                  "name": null
+                },
+                {
+                  "login": "thomas-lamiaux",
+                  "name": "Thomas Lamiaux"
                 },
                 {
                   "login": "Villetaneuse",
@@ -607,6 +627,14 @@
             }
           },
           {
+            "slug": "debian-packaging",
+            "name": "debian-packaging",
+            "description": "",
+            "members": {
+              "nodes": []
+            }
+          },
+          {
             "slug": "derive-maintainers",
             "name": "derive-maintainers",
             "description": "The code owners for the derive plugin.",
@@ -681,6 +709,10 @@
                 {
                   "login": "proux01",
                   "name": "Pierre Roux"
+                },
+                {
+                  "login": "Villetaneuse",
+                  "name": "Pierre Rousselin"
                 }
               ]
             }
@@ -930,6 +962,23 @@
             }
           },
           {
+            "slug": "nix-packaging",
+            "name": "nix-packaging",
+            "description": "Rocq packaging in nixpkgs",
+            "members": {
+              "nodes": [
+                {
+                  "login": "Zimmi48",
+                  "name": "Théo Zimmermann"
+                },
+                {
+                  "login": "proux01",
+                  "name": "Pierre Roux"
+                }
+              ]
+            }
+          },
+          {
             "slug": "nsatz-maintainers",
             "name": "nsatz-maintainers",
             "description": "The code owners for the nsatz plugin.",
@@ -961,16 +1010,12 @@
                   "name": "Jason Gross"
                 },
                 {
-                  "login": "Alizter",
-                  "name": "Ali Caglayan"
+                  "login": "silene",
+                  "name": "Guillaume Melquiond"
                 },
                 {
                   "login": "proux01",
                   "name": "Pierre Roux"
-                },
-                {
-                  "login": "ana-borges",
-                  "name": "Ana de Almeida Borges"
                 }
               ]
             }
@@ -1016,6 +1061,48 @@
                 {
                   "login": "fblanqui",
                   "name": "Frédéric Blanqui"
+                },
+                {
+                  "login": "proux01",
+                  "name": "Pierre Roux"
+                }
+              ]
+            }
+          },
+          {
+            "slug": "opam-packaging",
+            "name": "opam-packaging",
+            "description": "opam packaging of Rocq",
+            "members": {
+              "nodes": [
+                {
+                  "login": "mattam82",
+                  "name": "Matthieu Sozeau"
+                },
+                {
+                  "login": "silene",
+                  "name": "Guillaume Melquiond"
+                }
+              ]
+            }
+          },
+          {
+            "slug": "packaging",
+            "name": "packaging",
+            "description": "A team to gather all people involved in packaging Rocq.",
+            "members": {
+              "nodes": [
+                {
+                  "login": "mattam82",
+                  "name": "Matthieu Sozeau"
+                },
+                {
+                  "login": "Zimmi48",
+                  "name": "Théo Zimmermann"
+                },
+                {
+                  "login": "silene",
+                  "name": "Guillaume Melquiond"
                 },
                 {
                   "login": "proux01",
@@ -1185,7 +1272,7 @@
           {
             "slug": "platform-maintainers",
             "name": "platform-maintainers",
-            "description": "Maintainers of the rocq-prover/platform project",
+            "description": "Maintainers of the Rocq Platform",
             "members": {
               "nodes": [
                 {
@@ -1384,14 +1471,6 @@
                   "name": "Pierre Roux"
                 },
                 {
-                  "login": "VincentSe",
-                  "name": "Vincent Semeria"
-                },
-                {
-                  "login": "ana-borges",
-                  "name": "Ana de Almeida Borges"
-                },
-                {
                   "login": "forestjulien",
                   "name": null
                 },
@@ -1427,10 +1506,6 @@
                 {
                   "login": "thery",
                   "name": "Laurent Théry"
-                },
-                {
-                  "login": "MSoegtropIMC",
-                  "name": null
                 },
                 {
                   "login": "VincentSe",
@@ -1745,6 +1820,10 @@
                 {
                   "login": "Alizter",
                   "name": "Ali Caglayan"
+                },
+                {
+                  "login": "thomas-lamiaux",
+                  "name": "Thomas Lamiaux"
                 }
               ]
             }

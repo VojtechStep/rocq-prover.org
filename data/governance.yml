@@ -27,7 +27,7 @@ teams:
     default_role: Member
     contacts:
     - name: Code of Conduct Enforcement Team
-      link: mailto:coq-conduct@inria.fr
+      link: mailto:rocq-conduct@inria.fr
       kind: email
   - id: Discourse
     name: Discourse administration and moderation

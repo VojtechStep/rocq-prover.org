@@ -125,7 +125,7 @@ what answers they are likely to receive.
 
 If you believe someone is violating the code of conduct, we ask that you report
 it by emailing the Rocq Code of Conduct enforcement team at
-<coq-conduct@inria.fr> or, at your discretion, any member of the team.
+<rocq-conduct@inria.fr> or, at your discretion, any member of the team.
 Confidentiality with regard to the reporter of an
 incident will be maintained while dealing with it.
 
@@ -167,11 +167,11 @@ people may feel distressed even without a clear infraction of our standards. We
 hope to make a community where discussing such situations personally with other
 members can resolve such distress, but we recognize this may not always be
 possible. If the Code of Conduct has not been violated but you wish to discuss
-such an issue, please feel free to contact <coq-conduct@inria.fr>.
+such an issue, please feel free to contact <rocq-conduct@inria.fr>.
 
 ## Questions? ##
 
-If you have questions, feel free to write to <coq-conduct@inria.fr>.
+If you have questions, feel free to write to <rocq-conduct@inria.fr>.
 
 ## Attribution ##
 
